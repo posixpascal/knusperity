@@ -1,0 +1,16 @@
+export const SEARCH_NEXT_PAGE = "SEARCH_NEXT_PAGE";
+export const SEARCH_PREV_PAGE = "SEARCH_PREV_PAGE";
+export const CART_ADD_ITEM = "CART_ADD_ITEM";
+export const CART_INC_ITEM = "CART_INC_ITEM";
+export const CART_DEC_ITEM = "CART_DEC_ITEM";
+export const CHECKOUT_CART_CONFIRM = "CHECKOUT_CART_CONFIRM";
+export const CHECKOUT_CART_DENY = "CHECKOUT_CART_DENY";
+
+export type CALLBACK_PAYLOAD =
+  | ({ data: any } & typeof SEARCH_NEXT_PAGE)
+  | typeof SEARCH_PREV_PAGE
+  | typeof CART_ADD_ITEM
+  | typeof CART_INC_ITEM
+  | typeof CART_DEC_ITEM
+  | typeof CHECKOUT_CART_CONFIRM
+  | typeof CHECKOUT_CART_DENY;

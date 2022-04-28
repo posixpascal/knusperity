@@ -1,0 +1,29 @@
+{
+  "name": "knusperity",
+  "version": "1.0.0",
+  "description": "Order stuff from knuspr.de without leaving your terminal",
+  "main": "bin/knusperity",
+  "repository": "https://github.com/posixpascal/knusperity.git",
+  "author": "Pascal Raszyk <posixpascal@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.11.1",
+    "@types/node-geocoder": "^3.24.4",
+    "@types/node-telegram-bot-api": "^0.56.0",
+    "axios": "^0.26.1",
+    "axios-cookiejar-support": "^2.0.4",
+    "dotenv": "^16.0.0",
+    "node-geocoder": "^4.0.0",
+    "node-telegram-bot-api": "^0.56.0",
+    "prettier": "^2.6.2",
+    "puppeteer": "^13.6.0",
+    "tough-cookie": "^4.0.0",
+    "xstate": "^4.30.6"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/tough-cookie": "^4.0.1",
+    "prisma": "^3.11.1",
+    "typescript": "^4.6.3"
+  }
+}

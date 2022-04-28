@@ -1,0 +1,228 @@
+{
+    "carts": [
+        {
+            "items": [
+                {
+                    "product": {
+                        "productId": 7092,
+                        "productName": "Gustavo Gusto Pizza Margherita",
+                        "mainCategoryId": 516,
+                        "categories": [
+                            {
+                                "id": 516,
+                                "name": "Pizza",
+                                "nameId": "pizza",
+                                "nameLong": "",
+                                "level": 2
+                            },
+                            {
+                                "id": 515,
+                                "name": "Pizza, Flammkuchen & Baguettes",
+                                "nameId": "pizza-flammkuchen-baguettes",
+                                "nameLong": "Du hattest mich bei \"Pizza\"",
+                                "level": 1
+                            },
+                            {
+                                "id": 510,
+                                "name": "Tiefkühlprodukte",
+                                "nameId": "tiefkuhlprodukte",
+                                "nameLong": "Unsere Tiefkühltruhe lässt dich nicht kalt",
+                                "level": 0
+                            }
+                        ],
+                        "imgPath": "/images/grocery/products/7092/7092-1621267304527.jpg",
+                        "baseLink": "7092-gustavo-gusto-pizza-margherita",
+                        "link": "?productPopup=7092-gustavo-gusto-pizza-margherita",
+                        "unavailabilityReason": null,
+                        "preorderEnabled": false,
+                        "unit": "kg",
+                        "textualAmount": "410 g",
+                        "semicaliber": false,
+                        "price": {
+                            "full": 3.99,
+                            "whole": 3,
+                            "fraction": 99,
+                            "currency": "€"
+                        },
+                        "pricePerUnit": {
+                            "full": 9.73,
+                            "whole": 9,
+                            "fraction": 73,
+                            "currency": "€"
+                        },
+                        "recommendedPricePerUnit": {
+                            "full": 0,
+                            "whole": 0,
+                            "fraction": 0,
+                            "currency": "€"
+                        },
+                        "originalPrice": {
+                            "full": 0,
+                            "whole": 0,
+                            "fraction": 0,
+                            "currency": "€"
+                        },
+                        "goodPrice": false,
+                        "goodPriceSalePercentage": 0,
+                        "sales": [],
+                        "maxBasketAmount": 50,
+                        "maxBasketAmountReason": "ALLOWED",
+                        "badge": [],
+                        "imageScaleRatio": null,
+                        "imagesCount": 1,
+                        "immediateConsumption": false,
+                        "watchDogActive": false,
+                        "watchDogEnabled": true,
+                        "composition": {
+                            "nutritionalValues": {
+                                "dose": "100 g",
+                                "energyValueKJ": 929,
+                                "energyValueKcal": 221,
+                                "fats": 7.1,
+                                "saturatedFattyAcids": 4.1,
+                                "carbohydrates": 28.8,
+                                "sugars": 4.9,
+                                "proteins": 9.8,
+                                "salt": 1.75,
+                                "fiber": 1.3,
+                                "energyKCal": 221,
+                                "protein": 9.8
+                            }
+                        },
+                        "companyId": 1,
+                        "productStory": null,
+                        "vivino": null,
+                        "archived": false,
+                        "deliveryRestriction": null,
+                        "premiumOnly": false,
+                        "brand": "Gustavo Gusto",
+                        "availabilityDimension": 0,
+                        "recipes": null,
+                        "billablePackaging": null,
+                        "impressionId": null,
+                        "inStock": true,
+                        "favourite": false,
+                        "inStockByAmount": true,
+                        "coo": null
+                    },
+                    "quantity": 2
+                },
+                {
+                    "product": {
+                        "productId": 9249,
+                        "productName": "Ariel All-in-1 Pods Color 53WL",
+                        "mainCategoryId": 927,
+                        "categories": [
+                            {
+                                "id": 927,
+                                "name": "Waschtabs",
+                                "nameId": "waschtabs",
+                                "nameLong": "",
+                                "level": 3
+                            },
+                            {
+                                "id": 795,
+                                "name": "Waschmittel",
+                                "nameId": "waschmittel",
+                                "nameLong": "",
+                                "level": 2
+                            },
+                            {
+                                "id": 794,
+                                "name": "Wäschepflege",
+                                "nameId": "waschepflege",
+                                "nameLong": "",
+                                "level": 1
+                            },
+                            {
+                                "id": 773,
+                                "name": "Haushalt & Büro",
+                                "nameId": "haushalt-buro",
+                                "nameLong": "Alles für die privaten und beruflichen vier Wände",
+                                "level": 0
+                            }
+                        ],
+                        "imgPath": "/images/grocery/products/9249/9249-1625650495649.jpg",
+                        "baseLink": "9249-ariel-all-in-1-pods-color-53wl",
+                        "link": "?productPopup=9249-ariel-all-in-1-pods-color-53wl",
+                        "unavailabilityReason": null,
+                        "preorderEnabled": false,
+                        "unit": "Wäschen",
+                        "textualAmount": "53 Wäschen",
+                        "semicaliber": false,
+                        "price": {
+                            "full": 15.49,
+                            "whole": 15,
+                            "fraction": 49,
+                            "currency": "€"
+                        },
+                        "pricePerUnit": {
+                            "full": 0.29,
+                            "whole": 0,
+                            "fraction": 29,
+                            "currency": "€"
+                        },
+                        "recommendedPricePerUnit": {
+                            "full": 0,
+                            "whole": 0,
+                            "fraction": 0,
+                            "currency": "€"
+                        },
+                        "originalPrice": {
+                            "full": 0,
+                            "whole": 0,
+                            "fraction": 0,
+                            "currency": "€"
+                        },
+                        "goodPrice": false,
+                        "goodPriceSalePercentage": 0,
+                        "sales": [],
+                        "maxBasketAmount": 50,
+                        "maxBasketAmountReason": "ALLOWED",
+                        "badge": [],
+                        "imageScaleRatio": null,
+                        "imagesCount": 2,
+                        "immediateConsumption": false,
+                        "watchDogActive": false,
+                        "watchDogEnabled": true,
+                        "composition": {
+                            "nutritionalValues": {
+                                "dose": "100 g",
+                                "energyValueKJ": null,
+                                "energyValueKcal": null,
+                                "fats": null,
+                                "saturatedFattyAcids": null,
+                                "carbohydrates": null,
+                                "sugars": null,
+                                "proteins": null,
+                                "salt": null,
+                                "fiber": null,
+                                "energyKCal": 0,
+                                "protein": 0
+                            }
+                        },
+                        "companyId": 1,
+                        "productStory": null,
+                        "vivino": null,
+                        "archived": false,
+                        "deliveryRestriction": null,
+                        "premiumOnly": false,
+                        "brand": "Ariel",
+                        "availabilityDimension": 0,
+                        "recipes": null,
+                        "billablePackaging": null,
+                        "impressionId": null,
+                        "favourite": false,
+                        "inStock": true,
+                        "inStockByAmount": true,
+                        "coo": null
+                    },
+                    "quantity": 2
+                }
+            ],
+            "userId": 5165366443,
+            "userName": "Pascal"
+        }
+    ],
+    "chatId": -756183360
+}

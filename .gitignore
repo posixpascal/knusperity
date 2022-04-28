@@ -1,0 +1,8 @@
+.idea/
+.env
+node_modules/
+knusperity.db
+tsconfig.tsbuildinfo
+messages/
+dist/
+./config.json
